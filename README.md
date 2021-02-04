@@ -6,5 +6,5 @@ you can find me on [Twitter](https://twitter.com/oumoussa98), [Facebook](https:/
 > ### A list of all my side projects over [here](https://github.com/oumoussa98/My-projects-list)
 
 <a href="https://github.com/oumoussa98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oumoussa98&count_private=true&show_icons=true" alt="Abdelouahed's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oumoussa98&count_private=true&show_icons=true&theme=vue-dark" alt="Abdelouahed's github stats" />
 </a>
