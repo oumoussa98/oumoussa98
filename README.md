@@ -1,4 +1,4 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Abdelouahed Oumoussa, I'm a fullstack javascript developer from Morocco. so obsessed about tech and a big fan of vuejs
 you can find me on [Twitter](https://twitter.com/oumoussa98), [Facebook](https://www.facebook.com/oumoussa98), [Instagram](https://www.instagram.com/oumoussa98)
