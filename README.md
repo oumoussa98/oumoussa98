@@ -14,8 +14,10 @@ A passionate Frontend Engineer who loves building scalable, performant user inte
 
 ## 📫 Let's Connect!
 - 🌍 Website: [oumoussa.com](https://oumoussa.com/)
+- 📸 Instagram: [@oumoussa2.0](https://www.instagram.com/oumoussa2.0/)
 - 🐦 Twitter: [@oumoussa_](https://twitter.com/oumoussa_)
 - 💼 LinkedIn: [oumoussa](https://www.linkedin.com/in/aoumoussa)
+- 💬 Discord: [oumoussa](https://discordapp.com/users/718155864892113057)
 
 <a href="https://github.com/oumoussa98">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oumoussa98&count_private=true&show_icons=true&theme=dark&border_color=202530&bg_color=171b24" alt="Abdelouahed's github stats" />
