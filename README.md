@@ -1,9 +1,21 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+Hi, I'm Oumoussa
 
-My name is Abdelouahed Oumoussa, I'm a fullstack javascript developer from Morocco. so obsessed about tech and a big fan of vuejs
-you can find me on [Twitter](https://twitter.com/oumoussa98), [Facebook](https://www.facebook.com/oumoussa98), [Instagram](https://www.instagram.com/oumoussa98)
+A passionate Frontend Engineer who loves building scalable, performant user interfaces.
 
-> ### A list of all my side projects over [here](https://github.com/oumoussa98/My-projects-list)
+- 💻 I’ve been into software development since 2020.
+- 🎨 I specialize in JavaScript, Vue.js and TypeScript to create modern, responsive web applications.
+- 🔧 I enjoy crafting tools and libraries that reduce development time and optimize performance.
+- 🌐 I’m always exploring new technologies, frontend patterns, and expanding my backend knowledge.
+
+## 📚 Current Focus
+- Diving deeper into other frontend frameworks like React, Svelte, Solid.js.
+- Learning backend development with Hono, Drizzle ORM, and PostgreSQL.
+- Bringing my open-source ideas to life and making them accessible to the community.
+
+## 📫 Let's Connect!
+- 🌍 Website: [oumoussa.com](https://oumoussa.com/)
+- 🐦 Twitter: [@oumoussa_](https://twitter.com/oumoussa_)
+- 💼 LinkedIn: [oumoussa](https://www.linkedin.com/in/aoumoussa)
 
 <a href="https://github.com/oumoussa98">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oumoussa98&count_private=true&show_icons=true&theme=vue-dark" alt="Abdelouahed's github stats" />
