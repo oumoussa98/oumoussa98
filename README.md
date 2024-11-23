@@ -18,5 +18,5 @@ A passionate Frontend Engineer who loves building scalable, performant user inte
 - 💼 LinkedIn: [oumoussa](https://www.linkedin.com/in/aoumoussa)
 
 <a href="https://github.com/oumoussa98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oumoussa98&count_private=true&show_icons=true&theme=vue-dark" alt="Abdelouahed's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oumoussa98&count_private=true&show_icons=true&theme=dark&border_color=202530&bg_color=171b24" alt="Abdelouahed's github stats" />
 </a>
